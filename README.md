@@ -3,7 +3,7 @@ Documentation on Managing Node for MARO on Hyper-V Running Linux Server 18.0.4
 
 ## Restart NODE
 
-https://phoenixnap.com/kb/hyper-v-ubuntu
+[RESTART NODE](https://github.com/achuchavo/MARO-NODE-HYPERV-FOR-BEGINNERS/blob/main/RESTART%20NODE.md)
 
 ## Check if Node Is Running
 
