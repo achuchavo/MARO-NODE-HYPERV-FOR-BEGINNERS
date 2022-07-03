@@ -6,7 +6,9 @@ Documentation on Managing Node for MARO on Hyper-V Running Linux Server 18.0.4
 [RESTART NODE](https://github.com/achuchavo/MARO-NODE-HYPERV-FOR-BEGINNERS/blob/main/RESTART%20NODE.md)
 
 ## Open Console (콘솔 실행)
-[Putty-Linux Hyper V](https://github.com/achuchavo/MARO-MAINNET-ON-HYPER-V/blob/main/Connect%20Putty%20to%20Hyper-V%20Linux.md)
+[Open Console](https://github.com/achuchavo/MARO-NODE-HYPERV-FOR-BEGINNERS/blob/main/Open%20Console.md)
+
+
 
 ## View Log File (로그 보기)
-[TroubleShooting](https://github.com/achuchavo/MARO-MAINNET-ON-HYPER-V/blob/main/TROUBLESHOOTING.md)
+[View Log File](https://github.com/achuchavo/MARO-NODE-HYPERV-FOR-BEGINNERS/blob/main/View%20Log.md)
